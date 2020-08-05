@@ -3,7 +3,7 @@ title: Git
 weight: 5
 ---
 
-
+Follow the installation instructions according to your system:
 
  ### Windows 
 <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>
