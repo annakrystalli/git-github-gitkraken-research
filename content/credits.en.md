@@ -10,6 +10,9 @@ weight: 5
 
 Setup instructions were adapted from the [Software Carpentry Workshop Template](https://carpentries.github.io/workshop-template/), made available under the [Creative Commons Attribution (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/) Copyright © [Software Carpentry](https://software-carpentry.org/).
 
-### Additional content
+### Content
+
+
+### Website Theme
 
 The workshop materials website is based on the [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) and further configurations were inspired by Maëlle Salmon's course site on [**Scientific blogging with R Markdown**](https://github.com/maelle/rmd-blogging-course)
