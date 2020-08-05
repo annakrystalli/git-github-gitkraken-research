@@ -1,8 +1,8 @@
 
-# Scientific blogging with R Markdown
+# Version control through Git, GitHub & GitKraken for researchers
 
 <!-- badges: start -->
-[![Netlify Status](https://api.netlify.com/api/v1/badges/87a90f80-f65e-4bac-9e50-2ffa6ab8936a/deploy-status)](https://app.netlify.com/sites/scientific-rmd-blogging/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f063ccc-1fdf-46f2-b93b-ede3b9d8b87b/deploy-status)](https://app.netlify.com/sites/git-github-gitkraken-research/deploys)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 <!-- badges: end -->
 
@@ -18,8 +18,6 @@ Slides for each section are listed in the menu and opened in a new tab (thanks t
 Some Markdown content is generated with [R Markdown](https://rmarkdown.rstudio.com/), using [hugodown](https://github.com/r-lib/hugodown/).
 
 The website is deployed by [Netlify](https://www.netlify.com/).
-
-Slides could be printed to PDF using Decktape which I [have done in a concept](https://github.com/maelle/test-course-site) but I am not pursuing it further.
 
 ### Why these tools?
 
