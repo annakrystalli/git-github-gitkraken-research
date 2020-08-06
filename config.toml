@@ -4,6 +4,8 @@ title = "Version control through Git, GitHub & GitKraken for researchers"
 description = "Workshop materials for RSE Sheffield workshop on 'Version control through Git, GitHub & GitKraken for researchers'"
 pygmentsUseClasses=true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
+
 
 [module]
   [[module.imports]]
@@ -35,12 +37,12 @@ url = "/credits"
 weight = 30
 
 [[Languages.en.menu.shortcuts]]
-name = "<i class='fa fa-certificate'></i> CC-BY Licence"
-url = "https://creativecommons.org/licenses/by/4.0/"
+name = "<i class='fa fa-certificate'></i> CC BY-SA 3.0"
+url = "https://creativecommons.org/licenses/by-sa/3.0/"
 weight = 40
 
 [params]
-  editURL = "https://github.com/annakrystalli/git-github-gitkraken-research/edit/main/content/"
+  editURL = "https://github.com/annakrystalli/git-github-gitkraken-research/edit/master/content/"
   description = "Version control through Git, GitHub & GitKraken for researchers"
   author = "Anna Krystalli"
   showVisitedLinks = true
