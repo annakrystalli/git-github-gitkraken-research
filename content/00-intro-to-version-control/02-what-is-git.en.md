@@ -29,14 +29,14 @@ Linus Torvalds on the name **`git`**:
 ### Exhibit A
 
 
-{{< figure src="http://smutch.github.io/VersionControlTutorial/_images/vc-xkcd.jpg" attr="© Copyright 2013, Simon Mutch, CC-BY SA 3.0" attrlink="https://smutch.github.io/VersionControlTutorial/" >}}
+{{< figure src="https://smutch.github.io/VersionControlTutorial/_images/vc-xkcd.jpg" attr="© Copyright 2013, Simon Mutch, CC-BY SA 3.0" attrlink="https://smutch.github.io/VersionControlTutorial/" >}}
 
 
 <br>
 
 ### Exhibit B
 
-{{< figure src="http://www.phdcomics.com/comics/archive/phd101212s.gif" attr="'Piled Higher and Deeper' by Jorge Cham" attrlink="www.phdcomics.com" >}}
+{{< figure src="https://www.phdcomics.com/comics/archive/phd101212s.gif" attr="'Piled Higher and Deeper' by Jorge Cham" attrlink="https://www.phdcomics.com" >}}
 
 
 <br>
