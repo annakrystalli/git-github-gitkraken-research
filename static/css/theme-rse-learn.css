@@ -23,6 +23,7 @@
     --MENU-VISITED-color: #33a1ff; /* Color of 'page visited' icons in menu */
     --MENU-SECTION-HR-color: #20272b; /* Color of <hr> separator in menu */
 
+    --BLOCK-QUOTE-color: #53b86c  /* Color of blockquote */
 }
 
 body {
@@ -102,10 +103,23 @@ a:hover {
 }
 
 blockquote {
-    border-left: 10px solid #FA8072;
+    border-left: 10px solid var(--BLOCK-QUOTE-color);
+    width: auto;
+    display: table
 }
 
 blockquote p {
-    font-size: 1.1rem;
+    font-size: 1.3rem;
     color: #666;
+    font-style: italic;
+}
+
+q {
+  quotes: "“" "”" "‘" "’";
+}
+q::before {
+    content: open-quote;
+}
+q::after {
+    content: close-quote;
 }
