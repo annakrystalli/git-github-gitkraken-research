@@ -1,6 +1,6 @@
 ---
 title: Creating your first repository
-weight: 2
+weight: 3
 ---
 
 ## Creating your first repository

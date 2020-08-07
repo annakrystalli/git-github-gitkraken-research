@@ -1,7 +1,7 @@
 ---
 date: "2020-08-05T18:26:54+01:00"
 title: Git tips
-weight: 7
+weight: 8
 ---
  
 

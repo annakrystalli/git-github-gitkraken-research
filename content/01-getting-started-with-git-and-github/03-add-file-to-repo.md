@@ -1,6 +1,6 @@
 ---
 title: Add a file to the repo
-weight: 3
+weight: 4
 ---
 
 Okay! Now we need to do something with the repository. Let's start with a basic use-case and make a single file that lists some to-do items. The repository is just a normal folder on your computer where you can create and edit files like normal.

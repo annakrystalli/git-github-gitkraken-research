@@ -1,6 +1,6 @@
 ---
 title: Pulling from a remote repository
-weight: 6
+weight: 7
 ---
 **Push** makes sure that your work is not only in your computer but "online" as well which means:
 

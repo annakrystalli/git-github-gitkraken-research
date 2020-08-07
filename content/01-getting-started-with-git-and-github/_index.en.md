@@ -5,29 +5,12 @@ pre: <b>01. </b>
 title: Getting Started With Git and Github
 weight: 2
 ---
-
-
 # Getting Started With Git and Github
 
+### Let's start with some practical exercises!
 
-<img src="/images/gk01a.png" alt="title picture" width="700px">
+In this chapter we'll be **creating a new repository** locally and on GitHub, **making and versioning changes** and **pulling and pushing** changes to GitHub
 
-Let's get started on some practical exercises. 
 
----
-
-# Practical exercises
-
-In this section we'll be:
-
-1. Creating a new repository locally and on GitHub
-1. Making and versioning changes
-1. Pulling and pushing changes to GitHub
-
-<br>
-
-<img src="/images/remotes.jpg" alt="title picture" width="700px">
-
-<small>_[Source](https://github.com/jlord/git-it/blob/master/guide//images/imgs/remotes.png) (c) Jessica Lord, [BSD-2](https://opensource.org/licenses/BSD-2-Clause)_</small>
 
 

@@ -1,6 +1,6 @@
 ---
 title: Configure your git profile
-weight: 5
+weight: 2
 ---
 
 
